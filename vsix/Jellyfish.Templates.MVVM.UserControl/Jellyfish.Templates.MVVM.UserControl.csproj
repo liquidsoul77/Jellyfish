@@ -80,6 +80,9 @@
     <PackageReference Include="Jellyfish">
       <Version>1.0.42</Version>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.SDK.Analyzers">
+      <Version>15.8.36</Version>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="View\View.xaml">
